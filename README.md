@@ -1,4 +1,4 @@
-<h1 align="left">Hi there, I'm Sanjeev Krishna 👋</h1>
+<h1 align="left">Hi there, I'm Sanjeev Krishna </h1>
 <p align="left">
   I'm a Machine Learning Developer and AI Engineer currently pursuing my B.Tech in Artificial Intelligence and Data Science at Shiv Nadar University, Chennai.  
   With a strong foundation in deep learning, data engineering, and backend systems, I love building AI-driven products that combine intelligent automation with real-world impact.
@@ -26,11 +26,11 @@
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 <div align="left">
 
-### 🧠 Machine Learning & Data Science
+### Machine Learning & Data Science
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" />
@@ -41,7 +41,7 @@
 
 <br><br>
 
-### ⚙️ Backend & Core Engineering
+### Backend & Core Engineering
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55"/>
@@ -50,7 +50,7 @@
 
 <br><br>
 
-### 🎨 Frontend Development
+### Frontend Development
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55"/>
@@ -77,7 +77,7 @@
 
 
 
-## 📫 Connect with Me
+## Connect with Me
 
 <p align="left">
 <a href="https://linkedin.com/in/sanjeev-krishna-8566792b3" target="_blank">
